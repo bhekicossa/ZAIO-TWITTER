@@ -1,4 +1,7 @@
 p{
     font-size: 40px;
     font-weight: 500;
+    padding: 5px;
+    border-spacing: 8px;
+    color: yellow;
 }
